@@ -7,4 +7,4 @@ while True:
     if max_len < 18:
         print('toktobolotov')
     else:
-        print('не более 10 букв')
+        print('не более 18 букв')
